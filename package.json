@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "dotenv": "^16.3.1",
-    "octokit": "^3.1.0"
+    "octokit": "^3.1.2"
   },
   "type": "module"
 }
